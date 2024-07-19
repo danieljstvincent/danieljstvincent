@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/danielstvince" target="blank"><img src="https://img.shields.io/twitter/follow/danielstvince?logo=twitter&style=for-the-badge" alt="danielstvince" /></a> </p>
 
-- 🔭 I’m currently working on **[a Google Chrome Extension] (https://github.com/danieljstvincent/mirrordevotional)**
+- 🔭 I’m currently working on **[a Google Chrome Extension](https://www.github.com/danieljstvincent/mirrordevotional)** 
 
 - 🌱 I’m currently learning **JavaScript (Full Stack)**
 
