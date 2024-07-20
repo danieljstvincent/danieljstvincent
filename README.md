@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Helping College Students Land Jobs**
 
-- 💬 Ask me about **Python, FastAPI, and API Frameworks**
+- 💬 Ask me about **Backend Engineering, Python, FastAPI, and API Frameworks**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/danielstvincent/)**
 
