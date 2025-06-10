@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[a Google Chrome Extension](https://www.github.com/danieljstvincent/mirrordevotional)** 
 
-- 🌱 I’m currently learning **Djando 5 and Typescript**
+- 🌱 I’m currently learning **Django 5 and Typescript**
 
 - 👥 I’m looking to collaborate on **Startup Ideas**
 
