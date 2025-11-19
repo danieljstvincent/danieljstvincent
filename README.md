@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel St. Vincent</h1>
-<h3 align="center">Professional Software Engineer with 2+ years of experience</h3>
+<h3 align="center">Professional Software Engineer with 3+ years of experience</h3>
 
 <p align="left">
   <a href="https://twitter.com/danielstvince" target="blank">
