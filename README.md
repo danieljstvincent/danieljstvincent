@@ -43,19 +43,3 @@ Replace `YOUR_GITHUB_USERNAME` in the links below with your actual GitHub userna
 **Tools & Practices**
 `Git` `GitHub Actions` `Docker` `CI/CD`
 
----
-
-## 📈 Tracking Pull Request Consistency
-
-While the streak badge above shows your overall contribution activity (commits, issues, PRs), tracking specific metrics like "days consistent with pull requests" requires more custom logic. Here are a few approaches:
-
-| Method | Description | Best For |
-| :--- | :--- | :--- |
-| **GitHub Actions Workflow** | Create a scheduled workflow that checks your PR activity via the GitHub API and updates a counter in your README. | Fully automated, custom tracking. |
-| **Third-Party Action** | Use a community-built GitHub Action like `pull-request-stats` to generate and display PR metrics [citation:7]. | Team metrics and historical analysis. |
-| **Manual Badge** | Use a configurable badge service (like Shields.io) to manually update and display a counter. | Simple, static counters. |
-
-### Quick Start: Simple Counter Badge
-You can use a dynamic badge from [Shields.io](https://shields.io) as a placeholder. You would need to update the number manually or script it.
-```markdown
-![PR Consistency](https://img.shields.io/badge/Consistent_PRs-XX_days-blue)
