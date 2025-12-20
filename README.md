@@ -15,16 +15,6 @@ Passionate about building robust systems and empowering developers through clean
 - 📫 **Reach me via:** [LinkedIn](https://www.linkedin.com/in/danielstvincent/)
 - ⚡ **Fun fact:** Chocolate Chip Cookies are my favorite dessert 🍪
 
----
-
-## 📊 GitHub Stats & Streak
-
-To showcase your contribution streak and general GitHub activity, you can use services like `github-readme-stats` and `github-readme-streak-stats` [citation:2][citation:5].
-
-Replace `YOUR_GITHUB_USERNAME` in the links below with your actual GitHub username (e.g., `danieljstvincent`).
-
-
-
 | General Stats | Contribution Streak |
 |:---:|:---:|
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljstvincent&show_icons=true&theme=default&hide_border=true" alt="Your GitHub Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieljstvincent&theme=default&hide_border=true" alt="Your Contribution Streak" /> |
